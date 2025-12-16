@@ -18,9 +18,8 @@ cd app
 npm install
 node index.js
 
-## 🟢 ¿CÓMO LO USAS EN LA VM?
+## ¿CÓMO LO USAS EN LA VM?
 
-```bash
 git clone https://github.com/TU-USUARIO/proyecto1-equipo1.git
 cd proyecto1-equipo1/app
 npm install
